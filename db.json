@@ -1,0 +1,156 @@
+{
+  "Login": [
+    {
+      "id": 1,
+      "UserName": "charan@gmail.com",
+      "Password": "charan@123",
+      "Role": "faculty"
+    },
+    {
+      "id": 2,
+      "UserName": "kaveri.maram@gmail.com",
+      "Password": "Maram@123",
+      "Role": "student"
+    },
+    {
+      "username": "kav1",
+      "emailid": "kav1@gmail.com",
+      "password": "kav@123",
+      "reenterpassword": "kav@123",
+      "role": "student",
+      "id": 3
+    },
+    {
+      "UserName": "charan",
+      "id": 4
+    }
+  ],
+  "EightClass": [
+    {
+      "Period": "1",
+      "Subject": "Maths",
+      "Faculty": "Charan Sir"
+    },
+    {
+      "Period": "2",
+      "Subject": "Science",
+      "Faculty": "Nag Sir"
+    },
+    {
+      "Period": "3",
+      "Subject": "Social",
+      "Faculty": "Srinu Sir"
+    },
+    {
+      "Period": "4",
+      "Subject": "English",
+      "Faculty": "Kaveri Mam"
+    },
+    {
+      "Period": "5",
+      "Subject": "Maths",
+      "Faculty": "Charan Sir"
+    }
+  ],
+  "schedule": [
+    {
+      "Period": "1",
+      "Subject": "English",
+      "Teacher": "Sandhya",
+      "Time": "09:00 - 10:00",
+      "Topics": "Chapter -1",
+      "Assignment": "Q&A",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "Period": "2",
+      "Subject": "Telugu",
+      "Teacher": "Priya",
+      "Time": "10:00 - 11:00",
+      "Topics": "Chapter 1",
+      "Assignment": "test"
+    },
+    {
+      "Period": "3",
+      "Subject": "Maths",
+      "Teacher": "Kiran",
+      "Time": "11:00 - 12:00",
+      "Topics": "Exercise 1",
+      "Assignment": "no",
+      "id": 3
+    }
+  ],
+  "Student": [
+    {
+      "Name": "chandhana",
+      "Class": "Third",
+      "Section": "A",
+      "RollNo": "5",
+      "ParentName": "Devi",
+      "PhoneNumber": "8885670440",
+      "Address": "Guntur",
+      "id": 2
+    },
+    {
+      "Name": "Boomika",
+      "Class": "Third",
+      "Section": "A",
+      "ParentName": "Devi",
+      "RollNo": "10",
+      "PhoneNumber": "9875643212",
+      "Address": "Guntur",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "Name": "Kavya",
+      "Class": "Third Class",
+      "Section": "A",
+      "ParentName": "Devi",
+      "RollNo": "8",
+      "Address": "Guntur",
+      "PhoneNumber": "9823456782"
+    },
+    {
+      "Name": "ramcharan",
+      "Class": "Third",
+      "Section": "A",
+      "ParentName": "Devi",
+      "RollNo": "3",
+      "Address": "Guntur",
+      "PhoneNumber": "8885670440",
+      "id": 6
+    },
+    {
+      "Name": "Deepika",
+      "Class": "Third",
+      "Section": "A",
+      "ParentName": "Devi",
+      "RollNo": "2",
+      "Address": "Guntur",
+      "PhoneNumber": "9973568973",
+      "id": 7
+    },
+    {
+      "Name": "sravani",
+      "Class": "Third",
+      "Section": "A",
+      "ParentName": "Anuradha",
+      "RollNo": "1",
+      "Address": "Guntur",
+      "PhoneNumber": "9875643212",
+      "id": 8
+    },
+    {
+      "Name": "Durga ",
+      "Class": "Third",
+      "Section": "A",
+      "ParentName": "Sindhuraya",
+      "RollNo": "4",
+      "Address": "Ponnur",
+      "PhoneNumber": "9868424681",
+      "id": 9
+    }
+  ]
+}
